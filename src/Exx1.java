@@ -4,7 +4,7 @@ public class Exx1 {
 
         int i = 10;
 
-        while (i >= 1) {
+        while (i >= 0) {
             IO.println("Numero " + i);
             i--;
 
